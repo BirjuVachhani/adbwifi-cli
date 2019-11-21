@@ -1,5 +1,5 @@
 {
-  "name": "adbwifi",
+  "name": "adbwifi-cli",
   "version": "0.0.2",
   "description": "An cli application to connect android devices wirelessly for development",
   "main": "bin/cli.js",
