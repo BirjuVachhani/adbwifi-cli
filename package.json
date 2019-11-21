@@ -1,0 +1,20 @@
+{
+  "name": "adbwifi",
+  "version": "0.0.1",
+  "description": "An cli application to connect android devices wirelessly for development",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "adbwifi": "./bin/index.js"
+  },
+  "author": "Birju Vachhani",
+  "repository": "https://github.com/BirjuVachhani/adbwifi-cli.git",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^4.0.0",
+    "chalk": "^2.4.2",
+    "inquirer": "^7.0.0"
+  }
+}
