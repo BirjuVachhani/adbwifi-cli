@@ -4,15 +4,13 @@ A small cli app built using node to connect android devices wirelessly for devel
 
 ## Installation
 
-1. Clone this repo
-2. navigate into root folder of the project
-3. run `npm install -g`
+Just run `npm install -g adbwifi` and you're good to go!
 
 ## Usage 
 
 1. Open terminal
 2. run `adbwifi`
-3. select desired device to be connect wirelessly
+3. select desired device to connect wirelessly
 4. Enjoy!
 
 # License
