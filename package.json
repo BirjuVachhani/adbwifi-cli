@@ -11,7 +11,7 @@
   },
   "author": "Birju Vachhani",
   "repository": "https://github.com/BirjuVachhani/adbwifi-cli.git",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "dependencies": {
     "boxen": "^4.0.0",
     "chalk": "^2.4.2",
