@@ -13,6 +13,8 @@
   "repository": "https://github.com/BirjuVachhani/adbwifi-cli.git",
   "license": "Apache-2.0",
   "dependencies": {
+    "babel-cli": "^6.0.0",
+    "babel-preset-es2015": "^6.0.0",
     "boxen": "^4.0.0",
     "chalk": "^2.4.2",
     "inquirer": "^7.0.0",
